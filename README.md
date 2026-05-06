@@ -6,6 +6,7 @@
 > **Frameworks**: PyTorch & TensorFlow/Keras
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/26e4d539-f175-4911-bb85-0bce1a3edeeb" />
 
 ## 📋 Table of Contents
 
