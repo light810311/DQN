@@ -6,7 +6,7 @@
 > **Frameworks**: PyTorch & TensorFlow/Keras
 
 ---
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/26e4d539-f175-4911-bb85-0bce1a3edeeb" />
+
 
 ## 📋 Table of Contents
 
@@ -102,7 +102,7 @@ This report examines three progressive versions of DQN implemented in `DQN.ipynb
 
 > **Source**: `(HW3-2)RL_Comprehensive_Analysis_V3.pdf`  
 > **Algorithms compared**: DQN · Double DQN · Dueling DQN
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/26e4d539-f175-4911-bb85-0bce1a3edeeb" />
 ### Performance Summary
 
 | Algorithm | Win Rate | Convergence Speed | Stability |
