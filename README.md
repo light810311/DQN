@@ -1,3 +1,4 @@
+
 # 🧠 Deep Q-Network (DQN) — Homework 3
 
 > **Course**: Reinforcement Learning  
@@ -50,7 +51,7 @@ RL-HW3/
 ---
 
 ## HW3-1: DQN Evolution Report
-
+[(HW3-1)DQN_Evolution_Report.pdf](https://github.com/user-attachments/files/27430162/HW3-1.DQN_Evolution_Report.pdf)
 > **Source**: `(HW3-1)DQN_Evolution_Report.pdf`  
 > **Reference**: Chapter 3 — Listing 3.3, 3.5, 3.7
 
@@ -99,7 +100,7 @@ This report examines three progressive versions of DQN implemented in `DQN.ipynb
 ---
 
 ## HW3-2: RL Comprehensive Analysis
-
+[(HW3-2)RL_Comprehensive_Analysis_V3.pdf](https://github.com/user-attachments/files/27430181/HW3-2.RL_Comprehensive_Analysis_V3.pdf)
 > **Source**: `(HW3-2)RL_Comprehensive_Analysis_V3.pdf`  
 > **Algorithms compared**: DQN · Double DQN · Dueling DQN
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/26e4d539-f175-4911-bb85-0bce1a3edeeb" />
@@ -161,7 +162,7 @@ Q(s, a; θ, α, β) = V(s; θ, β) + ( A(s, a; θ, α) - (1/|A|) Σ_{a'} A(s, a'
 ---
 
 ## HW3-3: PyTorch vs. Keras Comparison
-
+[(HW3-3)DQN_PyTorch_vs_Keras_Comparison.pdf](https://github.com/user-attachments/files/27430195/HW3-3.DQN_PyTorch_vs_Keras_Comparison.pdf)
 > **Source**: `(HW3-3)DQN_PyTorch_vs_Keras_Comparison.pdf`  
 > **Notebooks**: `DQN.ipynb` (PyTorch) vs. `DQN_keras.ipynb` (Keras/TensorFlow)
 
@@ -217,6 +218,7 @@ Both frameworks successfully trained DQN on Gridworld, achieving **>90% win rate
 ---
 
 ## HW3-3 Bonus: DQN Soft Update Analysis
+[(HW3-3(bonus))DQN_Soft_Update_Analysis_Report.pdf](https://github.com/user-attachments/files/27430214/HW3-3.bonus.DQN_Soft_Update_Analysis_Report.pdf)
 
 > **Source**: `(HW3-3(bonus))DQN_Soft_Update_Analysis_Report.pdf`  
 > **Notebook**: `DQN_Soft Update.ipynb`
