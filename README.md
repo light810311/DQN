@@ -283,6 +283,8 @@ With τ = 0.001:
 
 
 ## 🌈 HW3-4: Rainbow DQN — Integrated Optimization
+[(HW3-4)Rainbow_DQN_Technical_Analysis_Report.pdf](https://github.com/user-attachments/files/27461995/HW3-4.Rainbow_DQN_Technical_Analysis_Report.pdf)
+![Uploading image (1).png…]()
 
 This section investigates the **Rainbow DQN** architecture, which integrates six key improvements into a single agent. The implementation focuses on the synergy between these components and their behavior in a random environment.
 
